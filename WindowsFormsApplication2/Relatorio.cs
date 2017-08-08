@@ -419,7 +419,7 @@ namespace WindowsFormsApplication2
                 chartControl3.Visible = false;
                 chartControl1.Visible = false;
                 con.Close();
-
+                
 
 
 
